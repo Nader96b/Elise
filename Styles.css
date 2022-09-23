@@ -1,0 +1,69 @@
+body {
+    background-image: url(wallpaper.png);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#elise {
+    border-radius: 20px;
+    left: 530px;
+    position: relative;
+}
+#text1 {
+    position: relative;
+    left: 600px;
+    top: 20px;
+}
+#elisegala{
+    position: relative;
+    left: 100px;
+    border-radius: 20px;
+}
+#babyelise{
+    top:-450px;
+    left:500px;
+    position: relative;
+    border-radius: 20px;
+}
+
+.foto{
+     left: 950px;
+     top: -1075px;
+    position: relative;
+}
+
+.foto1{
+    left: 285px;
+    top: -1275px;
+   position: relative;
+}
+#elisevriendin
+{
+    left: 1020px;
+    top: -1100px;
+    position: relative;
+    border-radius: 20px;
+}
+#basicfit
+{
+    left: 600px;
+    top: 650px;
+    position: absolute;
+}
+#kat1
+{
+    border-radius:20px; 
+    top: 900px;
+    left: 130px;
+    position: absolute;
+}
+#kat2{
+    border-radius:20px; 
+    top: 900px;
+    left: 1050px;
+    position: absolute;
+}
+#itachi{
+    border-radius: 20px;
+    top:900px;
+    left: 520px;
+    position:absolute
+}
